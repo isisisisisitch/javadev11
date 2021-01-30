@@ -1,4 +1,4 @@
-package ca.bytetube.leetcode.array;
+package ca.bytetube._00_leetcode.array;
 
 public class Partition {
 
